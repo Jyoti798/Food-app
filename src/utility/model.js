@@ -12,7 +12,7 @@
                         "Fast Food",
                         "Rolls & Wraps"
                       ],
-                      "avgRating": 4.3,
+                      "avgRating": 3.3,
                       "parentId": "547",
                       "avgRatingString": "4.3",
                       "totalRatingsString": "5.7K+",
