@@ -1,0 +1,1 @@
+export const Logo_url="https://static.vecteezy.com/system/resources/previews/052/792/818/non_2x/restaurant-logo-design-vector.jpg";

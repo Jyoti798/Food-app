@@ -1,0 +1,39 @@
+.logo-img{
+    width: 80px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+}
+.nav-item{
+     font-size: 20px;
+
+}
+.nav-item ul{
+    display: flex;
+    list-style-type: none;
+    margin: 10px 60px;
+ 
+}
+.nav-item ul li{
+    padding: 0 20px;
+}
+
+.res-cart{
+    border: 2px solid black;
+    background-color: aliceblue;
+    padding: 5px;
+    width: 200px;
+   
+    margin: 15px;
+}
+.res-img{
+    width: 90%;
+   height: 150px;
+}
+.cart{
+    display: flex;
+    flex-wrap: wrap;
+  
+}
